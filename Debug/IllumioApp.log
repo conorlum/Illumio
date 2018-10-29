@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  IllumioApp.cpp
+c:\users\conor lum\source\repos\illumioapp\illumioapp\illumioapp.cpp(92): warning C4018: '>': signed/unsigned mismatch
+c:\users\conor lum\source\repos\illumioapp\illumioapp\illumioapp.cpp(95): warning C4018: '>': signed/unsigned mismatch
+  IllumioApp.vcxproj -> c:\users\conor lum\source\repos\IllumioApp\Debug\IllumioApp.exe
